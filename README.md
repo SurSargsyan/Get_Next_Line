@@ -10,7 +10,7 @@ Este proyecto trata sobre la creación de una función que permite leer una lín
 char	*get_next_line(int fd)
 ```
 
-# Autor ✍🏼
+# Author ✍🏼
 
 <table>
   <tr>
@@ -18,17 +18,17 @@ char	*get_next_line(int fd)
   </tr>
 </table>
 
-# Contacto 📥
+# Contact 📥
 
 ◦ Email: sargsyansuren11@gmail.com
 
 ◦ Linkedin: https://www.linkedin.com/in/suren-sargsyan-25582a27a/
 
-# Quizás pueda interesarte!
+# You Might Be Interested!
 
-### - Para ver mi progresion en el common core 42 ↙️
+### - To see mt progression in the 42 common core ↙️
 
-[AQUÍ](https://github.com/SurSargsyan?tab=repositories)
+[HERE](https://github.com/SurSargsyan?tab=repositories)
 
-### - Mi perfil en la intranet de 42 ↙️
-[AQUÍ](https://profile.intra.42.fr/users/susargsy)
+### - My profile on the intranet ↙️
+[HERE](https://profile.intra.42.fr/users/susargsy)
