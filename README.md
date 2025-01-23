@@ -14,7 +14,7 @@ char	*get_next_line(int fd)
 
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/SurSargsyan/"><img src="https://github.com/user-attachments/assets/10784ded-47b7-48bd-afb0-97907cdd652b" width="100px;" alt="100px"/><br /><sub><b>SurSargsyan</b></sub></a><br /><a href=""https://profile.intra.42.fr/users/susargsy title="Intra 42"><img src="https://img.shields.io/badge/Malaga-FFFFFF?style=plastic&logo=42&logoColor=000000" alt="Intra 42"/></a></td>
+    <td align="center"><a href="https://github.com/SurSargsyan/"><img src="https://github.com/user-attachments/assets/10784ded-47b7-48bd-afb0-97907cdd652b" width="100px;" alt="100px"/><br /><sub><b>SurSargsyan</b></sub></a><br /><a href="https://profile.intra.42.fr/users/susargsy title="Intra 42"><img src="https://img.shields.io/badge/Malaga-FFFFFF?style=plastic&logo=42&logoColor=000000" alt="Intra 42"/></a></td>
   </tr>
 </table>
 
