@@ -21,15 +21,15 @@ char	*get_next_line(int fd)
 
 # Contacto 📥
 
-◦ Email: gemartin@student.42barcelona.com
+◦ Email: sargsyansuren11@gmail.com
 
-◦ Linkedin: https://www.linkedin.com/in/gemartin99/
+◦ Linkedin: https://www.linkedin.com/in/suren-sargsyan-25582a27a/
 
 # Quizás pueda interesarte!
 
 ### - Para ver mi progresion en el common core 42 ↙️
 
-[AQUÍ](https://github.com/gemartin99/42cursus)
+[AQUÍ](https://github.com/SurSargsyan?tab=repositories)
 
 ### - Mi perfil en la intranet de 42 ↙️
-[AQUÍ](https://profile.intra.42.fr/users/gemartin)
+[AQUÍ](https://profile.intra.42.fr/users/susargsy)
