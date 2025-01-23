@@ -1,10 +1,10 @@
 # 📖 Get_next_line
 
-## Descripción
+## Descripcion
 
-Este proyecto trata sobre la creación de una función que permite leer una línea de un archivo descriptor de una sola vez. La función recibe un descriptor de archivo y devolvera la siguiente línea del archivo como una cadena de caracteres terminada en null.
+This project is about creating a function that allows reading a single line from a file descriptor at once. The function receives a file descriptor and returns the next line from the file as a null-terminated string.
 
-<b>Prototipo de la función:</b>
+<b>Function Prototype:</b>
 
 ```C
 char	*get_next_line(int fd)
